@@ -6,9 +6,6 @@
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fldus&hide=contribs,prs&show_icons=true&theme=tokyonight)
-
-
 <!--
 **fldus/fldus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
